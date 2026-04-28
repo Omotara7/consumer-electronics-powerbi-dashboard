@@ -1,6 +1,7 @@
 # 📊 Consumer Electronics Profitability & Growth Dashboard
 
-![Dashboard Preview](dashboard preview.png)
+#Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
 
 ## 📌 Overview
 This project presents an interactive Power BI dashboard designed to analyze revenue performance, cost structure, and profitability drivers within the consumer electronics sector.
@@ -32,11 +33,6 @@ The dashboard enables dynamic exploration of key business metrics across regions
 - DAX (Data Analysis Expressions)
 - Data Visualization
 - Business Insight Generation
-
----
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard-preview.png)
 
 ---
 
